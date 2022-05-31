@@ -40,4 +40,3 @@ contract CCERC20 is ERC20, EIP712 {
         return ECDSA.recover(_digest, _signature);
     }
 }
-
