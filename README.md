@@ -1,0 +1,2 @@
+deployed to: 0x786EA4178aCce82D50810b5Ce31B54f6c7b2C564 on rinkeby
+deployed to: 0x0576689a643c7311fBaA94D9791c4Ec62980c97f on binance testnet
